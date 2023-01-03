@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
   
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/andreas-cross-1bb26a124/)">
+  <a href="https://www.linkedin.com/in/andreas-cross-1bb26a124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I build projects, learn new technologies, online gaming, hiking, surfing and spend time with loved ones.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-URL](https://www.linkedin.com/in/andreas-cross-1bb26a124/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-cross-1bb26a124/)
 
 <br/>
 <hr/>
