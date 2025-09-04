@@ -47,11 +47,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 <hr/>
 
-<div align="center">
-  :fire: My Stats :
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HandyAndyOG&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandyAndyOG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
